@@ -6,7 +6,7 @@ $ pkg install git
 $ pkg install cli
 $ pkg install curl
 $ pkg install dev 
-$ git clone https://github.com/zonaredXXII/NIK-KK-XXII.git
+$ git clone https://github.com/HRC303/NIK-KK-XXII
 $ ls
 $ cd kkktpgenerate2 
 $ ls
